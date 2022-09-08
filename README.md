@@ -1,7 +1,11 @@
-# mars-rover-project
+# Mars Rover Project (2018)
 a demonstration of autonomous driving using a custom made rover platform
 
-This project was a semester long project from 2018 with 1 partner as an effort to demonstrate how an autonomous vehicle on another planet might be constructed to suit the needs of the researchers using it. 
+This project was a semester long project from 2018 with 1 partner ([Shiva Sai Thadkamalla](https://github.com/sthadkam)) as an effort to demonstrate how an autonomous vehicle on another planet might be constructed to suit the needs of the researchers using it. 
+
+* Firmware development, configuration of the Raspberry Pi, parts selection, and construction of the rover was performed by Sumanth Akula (me).
+* The orthographic diagrams as well as electrical schematic was a team effort with [Shiva Sai Thadkamalla](https://www.linkedin.com/in/shiva-thadkamalla-4a1543224) and Sumanth Akula (me).
+* Overall featureset was decided on as a team.
 
 ## Components used:
 * Adafruit Feather ESP8266 Microcontroller
